@@ -1,0 +1,53 @@
+h1 {
+
+color:  #ff000f;
+
+}
+body {
+
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+background-color: black;
+
+}
+
+.uthev {
+
+background-color: rgba(0, 0, 255, 0.573);
+color: #ff0000;
+
+}
+
+
+.titel {
+
+text-align: center;
+background-color: rgba(0, 0, 255, 0.372);
+font-size: 36px;
+
+}
+.u_titel{
+
+color: #ff0000;
+background-color: rgba(0, 0, 255, 0.379);
+
+}
+
+.footer_c {
+
+text-align: center;
+background-color: rgba(0, 0, 255, 0.34);
+color: rgb(254, 254, 254);
+font-size: 0.9rem;
+
+}
+
+ul {
+
+color: rgb(255, 255, 255);
+
+}
+ol{
+
+    color: rgb(255, 255, 255);
+}
